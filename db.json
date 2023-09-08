@@ -1,106 +1,67 @@
 [
     {
         "id": 1,
-        "name": "Kopi Kayu Lawas",
-        "src": "./src/assets/images/kopi-kayu-lawas.jpg",
-        "imageAlt": "Kopi Kayu Lawas",
-        "address": "Jl. Kasongan No.88, Tirto, Bangunjiwo, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
-        "description": "Kota Yogyakarta menjadi salah satu destinasi wisata yang banyak dikunjungi wisatawan. Baik dalam negeri maupun luar negeri. Salah satu yang bisa anda kunjungi adalah Kopi Kayu Lawas.\nAnda dapat sekalian berwisata di Desa Wisata Gerabah Kasongan.\nKopi Kayu Lawas adalah restoran dengan tema \"tempo doeloe\". Restoran ini dibangun di pedesaan yang sangat asri. Membuat suasana restoran nyaman dan tenang."
+        "name": "Kopi Joss",
+        "src": "/Assets/drinks/kopi-joss.jpg",
+        "imageAlt": "Kopi Joss",
+        "price": "8000",
+        "description": "Kopi Joss is a captivating Indonesian coffee beverage originating from Yogyakarta, Java. Its unique appeal lies in its unconventional preparation method, where a cup of strong black coffee is dramatically enhanced by the addition of a piece of red-hot charcoal, creating a crackling sound that gives it the name \"Joss.\"\nThis intriguing process imparts a subtle smokiness to the coffee, complementing its bold, aromatic flavor. Typically served in small cups with a layer of frothy foam on top, Kopi Joss is a sensory delight, both in taste and experience. Beyond its distinctive taste, Kopi Joss holds cultural significance, representing the charm and authenticity of Yogyakarta's coffee culture. It's often enjoyed at street-side stalls, offering locals and tourists alike a unique and memorable coffee experience."
     },
     {
         "id": 2,
-        "name": "Loko Cafe",
-        "src": "./src/assets/images/loko-cafe.jpg",
-        "imageAlt": "Loko Cafe",
-        "address": "Komp. Ps. Kembang, Jl. Ps. Kembang, Sosromenduran, Gedong Tengen, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
-        "description": "Loko Coffee mengusung konsep perkeretaapian. Ornamen cafenya di desain seperti kondisi di dalam kereta api. Yang lebih menarik lagi adalah meja dan kursi di Loko Coffee terbuat dari kayu bekas bantalan rel kereta api."
+        "name": "Wedang Uwuh",
+        "src": "/Assets/drinks/wedang-uwuh.jpg",
+        "imageAlt": "Wedang Uwuh",
+        "price": "5000",
+        "description": "Wedang Uwuh is a traditional Javanese herbal drink that delights the senses with its aromatic and soothing qualities. Hailing from the lush landscapes of Indonesia, this fragrant concoction combines a medley of exotic spices, including clove, cinnamon, ginger, and lemongrass, creating a symphony of flavors that dance on the palate. Sweetened with palm sugar and often served hot, Wedang Uwuh offers a comforting warmth that is perfect for chasing away the chill on a cool evening or simply indulging in a moment of relaxation. Beyond its delightful taste, Wedang Uwuh is cherished for its potential health benefits, believed to aid digestion and boost overall well-being, making it a beloved and culturally significant beverage in Indonesian cuisine."
     },
     {
         "id": 3,
-        "name": "Legend Coffee 247 Games Cafe",
-        "src": "./src/assets/images/legend-coffee-247.jpg",
-        "imageAlt": "Legend Coffee 247",
-        "address": "Jl. Abu Bakar Ali No.24-26, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
-        "description": "Ada banyak hal unik yang dapat Anda temukan di kafe ini. Tempat nongkrong yang sangat cocok buat Anda para gamers. Di sini menyediakan setidaknya terdapat 15 jenis kopi khas di café legend ini dengan 100 jenis varian menu lainnya.\nLegend Coffe ini membuat kafenya memiliki desain semenarik mungkin untuk dapat menarik minat para pembeli. Tidak dapat dipungkiri adanya kebebasan bermain dalam kafe ini membuatnya semakin ramai pengunjung hingga membuka cabang di beberapa daerah."
+        "name": "Wedang Ronde",
+        "src": "/Assets/drinks/wedang-ronde.jpg",
+        "imageAlt": "Wedang Ronde",
+        "price": "5000",
+        "description": "Wedang Ronde is a delightful and heartwarming Indonesian dessert that enchants the taste buds with its unique combination of flavors and textures. Hailing from the vibrant culinary traditions of Java, this sweet and aromatic treat features glutinous rice flour dumplings filled with crushed peanuts, palm sugar, and a hint of ginger. These dumplings are served in a warm, fragrant ginger and lemongrass-infused broth, creating a harmonious blend of sweet and spicy notes that dance on the palate. Topped with crispy fried shallots, this comforting dessert is a beloved symbol of Indonesian hospitality and a favorite choice for those seeking a cozy and satisfying culinary experience."
     },
     {
         "id": 4,
-        "name": "Filosofi Kopi",
-        "src": "./src/assets/images/filosofi-kopi.jpg",
-        "imageAlt": "Filosofi Kopi",
-        "address": "Jl. Pandhawa No.001/17, Tegal Rejo, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
-        "description": "Untuk masyarakat Jogja dan dekat dapat berupaya berkunjung di wisata kuliner filosofi kopi Jogja, merasakan sensasi minum hot drink ini disajikan berbeda di tempat – tempat yang lain, artinya kedai kopi terletak di zona pedesaan dan jauh dari hiruk-pikuk kota.\n        Pertama kali Anda merambah posisi wisata, bakal langsung memandang deretan rumah joglo klasik autentik, di mana dinding–dinding rumah berbahan kayu jati asli.\nSajian menu kopi dan cemilan buat hanya menemani kenikmatan kopi, terbilang terbatas di Filosofi Kopi Jogja, artinya cuma sediakan sebagian tipe saja."
+        "name": "Es Jaipong",
+        "src": "/Assets/drinks/es-jaipong.jpg",
+        "imageAlt": "Es Jaipong",
+        "price": "5000",
+        "description": "Es Jaipong is a delightful and refreshing Indonesian beverage that captures the essence of tropical paradise in a single glass. Originating from the vibrant streets of West Java, this icy concoction is a colorful and captivating fusion of flavors. It features a medley of ingredients such as jackfruit, avocado, sweet coconut, grass jelly, and pandan-infused syrup, all bathed in a generous helping of coconut milk and crushed ice. The result is a harmonious symphony of sweet, creamy, and slightly herbal notes, offering a cooling respite from the tropical heat and a delightful journey for the taste buds. Es Jaipong embodies the rich diversity of Indonesian culinary traditions and is a beloved treat that brings joy and satisfaction with every sip."
     },
     {
         "id": 5,
-        "name": "Warung Es Buah PK",
-        "src": "./src/assets/images/es-buah-pk.jpg",
-        "imageAlt": "Warung Es Buah PK",
-        "address": "Jl. Pakuningratan, Jetis, Yogyakarta\nJl. Kyai Mojo, Tegalrejo, Yogyakarta\nKlajuran, Godean, Sleman",
-        "description": "Nama Warung Es Buah PK telah menjadi salah satu legenda kedai es di Yogyakarta. Kedai yang telah terdapat semenjak tahun 1973 dan terletak di trotoar Jalan Pakuningratan, Cokrodiningratan, Jetis, Jogja.\nNamanya Es Buah PK yang adalah kuliner istimewa dan menyegarkan di Kota Gudeg.\nTidak jauh beda dengan yang lain, Es Buah PK terdiri dari buah nangka, cincau gelap, sawo, kelapa muda, blewah, sawo, alpukat yang disajikan di atas mangkuk. Setelah itu, baru ditambahkan dengan serutan es dan susu coklat buat membuat rasanya manis. Tidak kurang bonus sirup yang nyatanya terbuat dengan formula sendiri."
+        "name": "Rujak Es Krim",
+        "src": "/Assets/drinks/rujak-es-krim.jpg",
+        "imageAlt": "Rujak Es Krim",
+        "price": "7000",
+        "description": "Rujak Es Krim is a tantalizing Indonesian dessert that combines the contrasting elements of sweet and spicy in a delightful and unexpected way. This unique dessert typically consists of a medley of tropical fruits, such as pineapple, mango, and apple, bathed in a spicy and tangy tamarind-based sauce that packs a flavorful punch. What sets Rujak Es Krim apart is the addition of a scoop of creamy vanilla ice cream, which adds a delightful contrast to the bold flavors of the sauce and creates a tantalizing balance of temperatures and tastes. This sweet and savory symphony, often garnished with crunchy peanuts and fried shallots, makes Rujak Es Krim an unforgettable treat that excites the senses and showcases the culinary ingenuity of Indonesia."
     },
     {
         "id": 6,
-        "name": "Angkringan Lik Man",
-        "src": "./src/assets/images/angkringan-lik-man.jpg",
-        "imageAlt": "Angkringan Lik Man",
-        "address": "Ps. Kranggan, Jl. Poncowinatan No.7, Gowongan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
-        "description": "Angkringan Lik Man merupakan angkringan legendaris, sebab pedagangnya adalah generasi awal pedagang angkringan di Yogyakarta yang umumnya berasal dari Klaten.\nBegitu sampai di angkringan yang buka pukul 18.00 ini, Anda dapat memesan bermacam minuman yang ditawarkan, panas maupun dingin. Pilihan minuman favorit adalah Kopi Joss, kopi yang disajikan panas dengan diberi arang. Kelebihan kopi itu adalah kadar kafeinnya yang rendah karena dinetralisir oleh arang."
+        "name": "Sarsaparilla",
+        "src": "/Assets/drinks/sarsaparilla.jpg",
+        "imageAlt": "Sarsaparilla",
+        "price": "15000",
+        "description": "Rujak Es Krim is a mouthwatering Indonesian dessert that artfully blends contrasting flavors and textures into a delectable harmony. This enticing treat combines a colorful assortment of tropical fruits, including pineapple, mango, and apple, all drenched in a spicy and tangy tamarind-based sauce that tantalizes the taste buds. What makes Rujak Es Krim truly special is the addition of a generous scoop of velvety vanilla ice cream, which provides a cooling and creamy contrast to the bold and zesty flavors of the sauce. Often garnished with crunchy peanuts and fried shallots, this dessert is a delightful symphony of sweet, sour, spicy, and creamy sensations that captures the essence of Indonesian culinary creativity."
     },
     {
         "id": 7,
-        "name": "Kopi Klotok Pakem",
-        "src": "./src/assets/images/kopi-klotok-pakem.jpg",
-        "imageAlt": "Kopi Klotok",
-        "address": "Jalan Kaliurang No.KM.16, Area Sawah, Pakembinangun, Kec. Pakem, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
-        "description": "Warung Kopi Klotok Jogja menjadi salah satu destinasi wisata kuliner yang ramai pengunjung.\nSaat datang ke Warung Kopi Klotok, Anda akan langsung disambut dengan bangunan tradisional khas Jawa. Sesuai namanya, tempat makan ini mengusung konsep warung sederhana dengan bangunan joglo tradisional, lengkap dengan furnitur antik tertata di dalamnya.\nNamun, di balik bangunan tradisional tersebut, tersimpan aneka menu makanan dan minuman lezat yang membuat Anda ketagihan."
+        "name": "Wedang Tahu",
+        "src": "/Assets/drinks/wedang-tahu.jpg",
+        "imageAlt": "Wedang Tahu",
+        "price": "6000",
+        "description": "Wedang Tahu is a warming and flavorful Indonesian beverage that offers a unique blend of ingredients and tastes. Originating from the rich culinary traditions of Java, this comforting drink is made from tofu cubes and served in a fragrant ginger and palm sugar-infused broth. The tofu absorbs the sweet and spicy flavors of the broth, creating a delightful contrast in textures and tastes. Often enjoyed hot, Wedang Tahu is not only a soothing and satisfying beverage but is also believed to have potential health benefits, particularly for digestion and overall well-being. With its harmonious blend of sweet, spicy, and savory elements, Wedang Tahu is a beloved symbol of Indonesian hospitality and a delightful treat for those seeking a taste of authentic Indonesian cuisine."
     },
     {
         "id": 8,
-        "name": "Warung Kopi Merapi",
-        "src": "./src/assets/images/warkop-merapi.jpg",
-        "imageAlt": "Warkop Merapi",
-        "address": "Kepuharjo, Cangkringan, Petung, Kepuharjo, Kec. Cangkringan, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
-        "description": "Bagi Anda pecinta kopi cobalah datang ke tempat ini. Namanya Warung Kopi Merapi. Letaknya di kaki gunung Merapi. Selain merasakan kenikmatan secangkir kopi jenis Robusta atau Arabika, Anda dapat menyaksikan “sisa-sisa” keganasan erupsi gunung api paling aktif di dunia tersebut.\nSebagai informasi, tempat ini berdekatan dengan tempat wisata yang relatif baru, yaitu The Lost World Castle, dan juga Stonehenge. Sekalian berwisata, dapat juga mampir ke sini. Warung kopi merapi terdapat di Dusun Petung, Kepuharjo, Cangkringan, Sleman. "
-    },
-    {
-        "id": 9,
-        "name": "Rujak Es Krim Pakualam",
-        "src": "./src/assets/images/rujak-es-krim.jpg",
-        "imageAlt": "Rujak Es Krim Pakualam",
-        "address": "Jl. Harjowinatan, RT.44/RW.10, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
-        "description": "Terdapat beberapa penjual rujak es krim di Jogja, salah satunya yang terletak di sebelah barat tembok luar Pura Pakualaman. Hanya dengan harga di bawah sepuluh ribu rupiah, Anda sudah dapat menikmati satu porsi rujak es krim yang disajikan dalam mangkuk kecil. Es krim di sini teksturnya sangat lembut, manisnya pas, dan menyatu dengan bumbu serta serutan buah di rujaknya."
-    },
-    {
-        "id": 10,
-        "name": "Epic Coffee & Epilog Furniture",
-        "src": "./src/assets/images/epic-coffee.jpg",
-        "imageAlt": "Epic Coffee",
-        "address": "Jl. Palagan Tentara Pelajar No.29, Mudal, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
-        "description": "Daya tarik Epic Coffee & Epilog Furniture Jogja Tentunya Epic Coffee Jogja disini sangat menyenangkan karena tempatnya didesain sangat cozy untuk para pengunjung dengan banyak menggunakan elemen kayu yang membuat suasana semakin menarik dan hangat. Epic Coffee Jogja mengusung taman terbuka yang membuat tempat ini sangat luas, tanaman hijau dan rerumputan serta pepohonan yang membuat suasana nyaman untuk menginap.\nAnda dapat memilih biji kopi sesuai dengan selera Anda, jika Anda penasaran dengan biji kopinya, di sini pelayan akan menjelaskannya kepada Anda sehingga anda bisa mendapatkan ilmunya juga."
-    },
-    {
-        "id": 11,
-        "name": "Kafe 80's Bocor Alus",
-        "src": "./src/assets/images/kafe-80s.jpg",
-        "imageAlt": "Kafe 80's",
-        "address": "Jalan Parangtritis 5.5, Kulon No.RT. 007, Tarudan, Bangunharjo, Kec. Sewon, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
-        "description": "Kafe 80's Bocor Alus, kafe ini akan membawa kalian menuju suasana pada tahun 80-an.\nMemasuki kafe, koleksi barang antik semakin beragam menghiasi dinding dan tiang. Beberapa di antaranya yakni teko, rantang, baskom, hingga radio.\nRagam menu yang dihadirkan Kafe 80's Bocor Alus adalah kuliner ala rumahan."
-    },
-    {
-        "id": 12,
-        "name": "Lawas 613 Cafe",
-        "src": "./src/assets/images/lawas-613.jpg",
-        "imageAlt": "Lawas 613 Cafe",
-        "address": "Jl. Prawirotaman 2 No.613, Brontokusuman, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
-        "description": "Lawas 613 cafe mempunyai tempat yang tidak begitu besar, cafe ini mempunya desain yang sangat modern di bagian depannya, namun setelah masuk anda akan dikejutkan dengan suasana vintage yang sangat berbeda.\nCafe ini selain cocok untuk nongkrong dan mengerjakan perkerjaan juga bisa anda gunakan sebagai tempat selfie, karena desain interior tempat ini sangat unik dengan suasana vintage dipadukan berbagai ornamen dan deretan sepeda ontel tua menambah kesan vintage tempat ini."
-    },
-    {
-        "id": 13,
-        "name": "Journey Coffee & Records",
-        "src": "./src/assets/images/journey-coffee.jpg",
-        "imageAlt": "Journey Coffee",
-        "address": "Jl. Komp. Colombo No.37, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
-        "description": "Yang menarik dari Journey Coffee & Records (JRNY) adalah tentang konsep yang diusung karena menggabungkan antara tempat untuk ngopi dan juga musik.\nSelain menjadi tempat ngopi, JRNY rutin mengadakan gigs di setiap bulannya semenjak 2021. Agenda tersebut menampilkan band-band yang sebagian besar sudah memilki karya. Band-bandnya juga tidak hanya berasal dari Jogja saja."
+        "name": "Bir Pletok",
+        "src": "/Assets/drinks/bir-pletok.jpg",
+        "imageAlt": "Bir Pletok",
+        "price": "3000",
+        "description": "Bir Pletok is a traditional and invigorating Indonesian herbal beverage that brings together a delightful medley of spices and flavors. Hailing from the vibrant culture of Jakarta and West Java, this unique drink features a base of palm sugar and coconut water, infused with a blend of aromatic ingredients such as ginger, lemongrass, pandan leaves, and cloves. These spices infuse the beverage with a harmonious symphony of sweet, spicy, and slightly tangy notes, creating a truly distinctive taste experience. Often served hot, Bir Pletok not only tantalizes the taste buds but also provides comfort and warmth, making it a cherished part of Indonesia's culinary heritage and a must-try for those seeking a flavorful journey through Indonesian cuisine."
     }
+
 ]
