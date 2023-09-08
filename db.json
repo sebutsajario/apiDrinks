@@ -39,30 +39,6 @@
             "imageAlt": "Rujak Es Krim",
             "price": "7000",
             "description": "Rujak Es Krim is a tantalizing Indonesian dessert that combines the contrasting elements of sweet and spicy in a delightful and unexpected way. This unique dessert typically consists of a medley of tropical fruits, such as pineapple, mango, and apple, bathed in a spicy and tangy tamarind-based sauce that packs a flavorful punch. What sets Rujak Es Krim apart is the addition of a scoop of creamy vanilla ice cream, which adds a delightful contrast to the bold flavors of the sauce and creates a tantalizing balance of temperatures and tastes. This sweet and savory symphony, often garnished with crunchy peanuts and fried shallots, makes Rujak Es Krim an unforgettable treat that excites the senses and showcases the culinary ingenuity of Indonesia."
-        },
-        {
-            "id": 6,
-            "name": "Sarsaparilla",
-            "src": "/Assets/drinks/sarsaparilla.jpg",
-            "imageAlt": "Sarsaparilla",
-            "price": "15000",
-            "description": "Rujak Es Krim is a mouthwatering Indonesian dessert that artfully blends contrasting flavors and textures into a delectable harmony. This enticing treat combines a colorful assortment of tropical fruits, including pineapple, mango, and apple, all drenched in a spicy and tangy tamarind-based sauce that tantalizes the taste buds. What makes Rujak Es Krim truly special is the addition of a generous scoop of velvety vanilla ice cream, which provides a cooling and creamy contrast to the bold and zesty flavors of the sauce. Often garnished with crunchy peanuts and fried shallots, this dessert is a delightful symphony of sweet, sour, spicy, and creamy sensations that captures the essence of Indonesian culinary creativity."
-        },
-        {
-            "id": 7,
-            "name": "Wedang Tahu",
-            "src": "/Assets/drinks/wedang-tahu.jpg",
-            "imageAlt": "Wedang Tahu",
-            "price": "6000",
-            "description": "Wedang Tahu is a warming and flavorful Indonesian beverage that offers a unique blend of ingredients and tastes. Originating from the rich culinary traditions of Java, this comforting drink is made from tofu cubes and served in a fragrant ginger and palm sugar-infused broth. The tofu absorbs the sweet and spicy flavors of the broth, creating a delightful contrast in textures and tastes. Often enjoyed hot, Wedang Tahu is not only a soothing and satisfying beverage but is also believed to have potential health benefits, particularly for digestion and overall well-being. With its harmonious blend of sweet, spicy, and savory elements, Wedang Tahu is a beloved symbol of Indonesian hospitality and a delightful treat for those seeking a taste of authentic Indonesian cuisine."
-        },
-        {
-            "id": 8,
-            "name": "Bir Pletok",
-            "src": "/Assets/drinks/bir-pletok.jpg",
-            "imageAlt": "Bir Pletok",
-            "price": "3000",
-            "description": "Bir Pletok is a traditional and invigorating Indonesian herbal beverage that brings together a delightful medley of spices and flavors. Hailing from the vibrant culture of Jakarta and West Java, this unique drink features a base of palm sugar and coconut water, infused with a blend of aromatic ingredients such as ginger, lemongrass, pandan leaves, and cloves. These spices infuse the beverage with a harmonious symphony of sweet, spicy, and slightly tangy notes, creating a truly distinctive taste experience. Often served hot, Bir Pletok not only tantalizes the taste buds but also provides comfort and warmth, making it a cherished part of Indonesia's culinary heritage and a must-try for those seeking a flavorful journey through Indonesian cuisine."
         }
     ]
 }
